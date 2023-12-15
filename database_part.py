@@ -52,3 +52,5 @@ class DataBasHelper:
 
 if __name__=='__main__':
     datamite = DataBasHelper()
+    datamite.show_database()
+    print("hosting")
