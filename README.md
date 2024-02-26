@@ -1,1 +1,1 @@
-# samll_user_login_register_with_MySQL_Database
+# Small User Login register in Python with MySQL Database.
